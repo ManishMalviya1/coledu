@@ -21,7 +21,7 @@ script.js
 ❖ Back-end (database): coledu.sql
 
 
-Steps to implement in localhost:
+STEPS to implement in localhost:-
 REQUIREMENTS: MySQL, Code editor(any), Xampp(or any alternate...)
 1. Create a database and import coledu.sql in it.
 2. Copy WHOLE content of folder: “FRONT-END (php, css, js, images & icons)” including “images” folder and all 
