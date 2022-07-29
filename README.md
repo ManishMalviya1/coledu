@@ -18,10 +18,8 @@ loginStyle.css teststyle.css style.
 ❖ JavaScript file:
 script.js
 
-❖ Folder: “images” => containing all images and logo
+❖ Back-end (database): coledu.sql
 
-3. Back-end (coledu.sql)
-coledu.sql
 
 Steps to implement in localhost:
 REQUIREMENTS: MySQL, Code editor(any), Xampp(or any alternate...)
